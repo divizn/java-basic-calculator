@@ -1,5 +1,6 @@
 import java.util.Scanner;
-public class Main {
+
+public class Calculator {
     public static void main(String[] args) {
         Scanner theScan = new Scanner(System.in);
         boolean check = true;
