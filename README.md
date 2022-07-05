@@ -2,7 +2,7 @@
 
 <p align="center"><strong>CURRENTLY ON PAUSE</strong></p>
 <p align="center"> I am working on Python and other things right now so I will continue Java another time and actually add some OOP to this since the 
-code is horrible right now</p>
+code is horrible right now (05.07.2022)</p>
 
 </br>
 A basic calculator which can currently perform addition, subtraction, multiplication, division and modulo division.
